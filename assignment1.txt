@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>
+My First Website
+</title>
+<body>
+<h1>Welcome to my website!Here are some things i enjoy</h1>
+<p1>
+<ul>
+<li>Web Development</li>
+<li>Chess</li>
+<li>Reading</li>
+<li>Learning</li>
+</ul>
+</p1>
+</body>
+</html>
